@@ -4,7 +4,7 @@ public class BankAccount {
     int balance;
     public static void main(String[] args) {
        BankAccount t=new BankAccount();
-       t.deposit(1000);
+       t.deposit(100);
        t.withdraw(500);
     }
 
